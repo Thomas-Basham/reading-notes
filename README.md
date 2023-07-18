@@ -11,3 +11,5 @@ A place to view all of my notes for Codex Academy
 ## Code 201 Reading notes
 
 [Class 01](code-201/class-01.md)
+
+[Class 02](code-201/class-02.md)
