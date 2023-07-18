@@ -1,12 +1,13 @@
 # Reading Notes
+
 A place to view all of my notes for Codex Academy
 
-## second level heading
+## Code 102 Reading Notes
 
-### third level heading
+[Class 01](code-102/class-01.md)
 
-[GitHub](https://github.com)
+[Class 02](code-102/class-02.md)
 
+## Code 201 Reading notes
 
-
-
+[Class 01](code-201/class-01.md)
